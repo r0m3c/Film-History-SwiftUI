@@ -11,7 +11,7 @@ import SwiftUI
 struct Film_HistoryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WelcomeView()
         }
     }
 }
