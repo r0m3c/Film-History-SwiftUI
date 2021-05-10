@@ -13,6 +13,5 @@ struct Film_HistoryApp: App {
         WindowGroup {
             WelcomeView()
         }
-        
     }
 }
